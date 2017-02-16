@@ -26,6 +26,10 @@ module.exports = {
         isOpenningNode: true,
         openBae: false
     },
+    mail: {
+        user: 'cc.ccforward@gmail.com',
+        pass: 'qmshtc0710'
+    },
     spider: {
         fire: false,
         openTask: false,
